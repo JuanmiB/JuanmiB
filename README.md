@@ -1,5 +1,5 @@
-h1>Hello! I'm Mauro Vera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨</h2>
+h1> Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>FullStack Developer 🎨</h2>
 
 ### About Me
 - I'm 26 years old
