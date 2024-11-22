@@ -1,10 +1,9 @@
 <h1> Juan Miguel Bogado<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>FullStack Developer 💻 </h2>
+<h2>Frontend Developer 💻 </h2>
 
 ### About Me
 - I'm 26 years old
 - From Buenos Aires, Argentina.
-- MERN Stack.
 
 ### Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
